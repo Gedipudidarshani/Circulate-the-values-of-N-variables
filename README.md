@@ -29,6 +29,6 @@ def circulate():
     print("After circulating the values are:",result)
 ``````
 ## Output:
-![solution](output1.png)
+![solution](output2.png)
 ## Result:
 Thus the solutions for circulating N values are successfully solved using python programming.
